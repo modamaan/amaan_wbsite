@@ -1,49 +1,58 @@
-# Cooked this Paperfolio template with V0 | Here’s the template you can use for free
+# Mohammed Amaan | Personal Portfolio
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://v0.link/nikhil-shukla)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.link/paperfolio)
+Welcome to the source code for my personal portfolio website! This project serves as a digital resume and a showcase of my skills, experience, and the services I offer as a Software Engineer.
 
-![Paperfolio Template Preview](https://global.discourse-cdn.com/vercel/original/2X/e/e8a5d554ecf92e4adb4a718138c60ad7e0c7510e.png)
+## 🚀 Tech Stack
 
-I’ve been experimenting with **V0 - by Vercel**, and I rebuilt the popular **Paperfolio** layout originally created by **Brix Templates**.
-This is a community-made clone — all ownership of the original design stays with @brixtemplatesbrixtemplates.
-My goal was simply to recreate it in V0 so anyone can use or remix it.
+This project is built with modern web technologies:
+- **Framework:** [Next.js](https://nextjs.org/) (App Router)
+- **Library:** [React](https://reactjs.org/)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+- **Language:** TypeScript
+- **Icons:** [Lucide React](https://lucide.dev/)
+
+## 📂 Sections Included
+- **Hero Section:** A brief introduction and quick ways to get in touch.
+- **About:** Details about my background and skills.
+- **Experience:** A timeline of my professional journey.
+- **Portfolio:** A showcase of my selected projects.
+- **Services:** Information on the freelance services I provide.
+- **Contact:** Links to my social profiles and direct contact methods.
+
+## 🛠️ Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/modamaan/amaan_wbsite.git
+   ```
+2. Navigate into the project directory:
+   ```bash
+   cd amaan_wbsite
+   ```
+3. Install dependencies:
+   ```bash
+   pnpm install
+   # or npm install / yarn install
+   ```
+4. Start the development server:
+   ```bash
+   pnpm dev
+   ```
+5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+## 📬 Let's Connect!
+
+I'm currently available for freelance work and open to new opportunities. Let's build something amazing together:
+
+- **Email:** [mohamedamaan319@gmail.com](mailto:mohamedamaan319@gmail.com)
+- **WhatsApp:** [+91 7025520084](https://wa.me/917025520084)
+- **LinkedIn:** [mohamedamaan319](https://www.linkedin.com/in/mohamedamaan319/)
+- **Twitter:** [@modamaan_](https://x.com/modamaan_)
+- **Instagram:** [@_mohamed_amaan_](https://www.instagram.com/_mohamed_amaan_/)
+- **Medium:** [@amaancr7777](https://medium.com/@amaancr7777)
+- **Blog:** [devblog.blog](https://devblog.blog)
 
 ---
-
-## Live Demo & Template Access
-
-**→  Template (Clone / Remix):** https://v0.link/paperfolio
-
-**→  Live Preview:** https://v0-paperfolio.vercel.app
-
----
-
-## Video Walkthrough
-
-**→ Watch the walkthrough on X:**
-[https://x.com/i/status/1994130537464910310](https://x.com/i/status/1994130537464910310)
-
----
-
-## What’s Inside the Template
-
-* Clean portfolio with hero section and highlight-style text blocks
-* Minimal, bold layout focused on showcasing your work
-* Reusable components built directly in V0
-* Easy to customize for personal portfolios or client sites
-
----
-
-## How to Use It
-
-1. Open the template → https://v0.link/paperfolio
-2. Click on “Open in V0”
-3. Make your styling tweaks
-4. Deploy on Vercel
-
-That’s it — you have a clean, modern portfolio site ready to ship.
-
----
-
-If you end up customizing this, I’d like to see what you build.
+*Designed & Developed by Mohammed Amaan.*
